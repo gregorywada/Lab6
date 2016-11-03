@@ -1,6 +1,6 @@
 fluidPage(
   includeMarkdown("Title.Rmd"),
-  titlePanel("", windowTitle = "my App"),
+  titlePanel("", windowTitle = "Colloborative Shiny app!!"),
   br(),
   br(),
   hr(),
