@@ -6,8 +6,8 @@ fluidPage(
   hr(),
   sidebarLayout(
     sidebarPanel(
-      textInput("myText1", "Sometimes in our lives, we all have pain, we all have _____"),
-      actionButton("createNewData", "Simulate new data for a second, awesome bar plot. Okay?")
+      textInput("myText1", "Who is Jimmy Page?"),
+      actionButton("createNewData", "Would you like to simulate new data for a second, awesome bar plot?")
     ),
     mainPanel(
       textOutput("myTextOutput1"),
